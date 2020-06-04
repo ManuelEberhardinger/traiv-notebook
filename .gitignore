@@ -1,0 +1,6 @@
+serialized_nets/
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+utils/__pycache__/
+utils/.DS_Store
