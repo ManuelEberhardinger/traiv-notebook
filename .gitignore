@@ -4,3 +4,6 @@ serialized_nets/
 __pycache__/
 utils/__pycache__/
 utils/.DS_Store
+dataset/
+images/
+json/
