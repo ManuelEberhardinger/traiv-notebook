@@ -6,4 +6,5 @@ utils/__pycache__/
 utils/.DS_Store
 dataset/
 images/
+json_old/
 json/
